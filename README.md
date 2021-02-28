@@ -7,14 +7,14 @@
 ![image](https://user-images.githubusercontent.com/55734436/109414491-7c582800-79f6-11eb-89f6-0cf017210e55.png)
 
 
-## :one: SELECT
+## :small_orange_diamond: SELECT
 
-## :two: SUM, MAX, MIN
+## :small_orange_diamond: SUM, MAX, MIN
 
-## :three: GROUP BY
+## :small_orange_diamond: GROUP BY
 
-## :four: IS NULL
+## :small_orange_diamond: IS NULL
 
-## :five: JOIN
+## :small_orange_diamond: JOIN
 
-## :six: String, Date
+## :small_orange_diamond: String, Date
