@@ -1,4 +1,4 @@
-# 프로그래머스 SQL 고득점 Kit
+# :pencil2: 프로그래머스 SQL 고득점 Kit
 
 ### [프로그래머스 링크](https://programmers.co.kr/learn/challenges)
 
@@ -7,14 +7,14 @@
 ![image](https://user-images.githubusercontent.com/55734436/109414491-7c582800-79f6-11eb-89f6-0cf017210e55.png)
 
 
-## SELECT
+## :one: SELECT
 
-## SUM, MAX, MIN
+## :two: SUM, MAX, MIN
 
-## GROUP BY
+## :three: GROUP BY
 
-## IS NULL
+## :four: IS NULL
 
-## JOIN
+## :five: JOIN
 
-## String, Date
+## :six: String, Date
