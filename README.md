@@ -17,4 +17,5 @@
 
 ## :small_orange_diamond: JOIN
 
+조인 어렵네???????????
 ## :small_orange_diamond: String, Date
