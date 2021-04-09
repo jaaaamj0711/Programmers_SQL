@@ -7,4 +7,4 @@
 ![image](https://user-images.githubusercontent.com/55734436/109414491-7c582800-79f6-11eb-89f6-0cf017210e55.png)
 
 
-조인 하나만 풀면 다푼다~
+조인 하나만 풀면 다푼다~ 아아니 
