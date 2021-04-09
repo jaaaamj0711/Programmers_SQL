@@ -7,15 +7,4 @@
 ![image](https://user-images.githubusercontent.com/55734436/109414491-7c582800-79f6-11eb-89f6-0cf017210e55.png)
 
 
-## :small_orange_diamond: SELECT
-
-## :small_orange_diamond: SUM, MAX, MIN
-
-## :small_orange_diamond: GROUP BY
-
-## :small_orange_diamond: IS NULL
-
-## :small_orange_diamond: JOIN
-
-조인 어렵네???????????
-## :small_orange_diamond: String, Date
+조인 하나만 풀면 다푼다~
